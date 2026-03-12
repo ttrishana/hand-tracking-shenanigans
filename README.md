@@ -1,5 +1,5 @@
 # hand-tracking-shenanigans
-
+"""
 ╔════════════════════════════════════════════════════════╗
 ║   AIR THEREMIN / DJ LOOPER                             ║
 ║                                                        ║
@@ -22,3 +22,4 @@
 
 Requirements:
     pip3 install opencv-python mediapipe sounddevice numpy
+"""
