@@ -8,12 +8,12 @@ AIR THEREMIN / DJ LOOPER
 Press Q to quit                                     
 
 NARUTO — SHADOW CLONE JUTSU
-影分身の術 
 
-Perform the 4 hand signs in order:
+Perform the 3 hand signs in order:
     鼠 Rat → 戌 Dog → 午 Horse             
     Hold each sign for ~0.8s 
 
 Requirements:
-    pip3 install opencv-python mediapipe sounddevice numpy
-"""
+```
+pip3 install opencv-python mediapipe sounddevice numpy
+```
